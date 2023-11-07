@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029362059691",
+    "project_id": "wordy-9c749",
+    "storage_bucket": "wordy-9c749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029362059691:android:42b1a15f1e8376a6ea6aee",
+        "android_client_info": {
+          "package_name": "mina.app.wordleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdtgqMDKl11Qgk66c1z8AMXpv1quK614"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -363,7 +363,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //setting all findViewById
         setContentView(R.layout.activity_main);
-        grid = findViewById(R.id.gridLayout);
+
         firstRowFirst = findViewById(R.id.first_row_first);
         firstRowSecond = findViewById(R.id.first_row_second);
         firstRowThird = findViewById(R.id.first_row_third);
